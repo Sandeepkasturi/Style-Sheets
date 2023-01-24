@@ -1,0 +1,12 @@
+body{
+background-color : skyblue;
+}
+h1,h2,h3,h4,h5{
+color :yellow;
+font-family : "Georgia;"
+font-size: 20px;
+}
+p{
+color : red;
+font-size : 18px;
+}
